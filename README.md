@@ -14,3 +14,6 @@ Run the train script on synapse dataset. The batch size can be reduced to 8 or 1
 
 Reference
 • Dataset : https://paperswithcode.com/dataset/miccai-2015-multi-atlas-abdomen-labeling
+
+![Arche](https://github.com/md-arham/Multi_organ_segmentation_transformer/assets/120133551/725a15ac-389e-4d61-9480-01ce9a70c040)
+
