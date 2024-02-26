@@ -17,3 +17,6 @@ Reference
 
 ![Arche](https://github.com/md-arham/Multi_organ_segmentation_transformer/assets/120133551/725a15ac-389e-4d61-9480-01ce9a70c040)
 
+RESULTS :- 
+![image](https://github.com/md-arham/Multi_organ_segmentation_transformer/assets/120133551/d11c3072-9017-4937-9a38-95fb1acc256b)
+
